@@ -1,6 +1,6 @@
 # Google Sheet Range Validator
 
-Used this script to create a number from a range.
+Used this script to create a number representing a range.
 
 Just pass a range from your sheet and it will return a value corresponding to it.
 
