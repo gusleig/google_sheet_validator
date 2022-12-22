@@ -14,6 +14,6 @@ If the field is a number, gets its value and adds to the sum.
 ## Usage
 
 This would get a value representing cols A and B
-'''
+```
 =RangeGetSum(A:B)
-'''
+```
